@@ -1,0 +1,5 @@
+db.sqlite3
+musicapi/migrations
+.mypy_cache
+temp
+.vscode
